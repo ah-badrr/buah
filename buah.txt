@@ -1,0 +1,4 @@
+buah :
+1. jeruk
+2. kiwi
+3. apel
