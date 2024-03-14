@@ -2,4 +2,4 @@ buah :
 1. jeruk
 2. kiwi
 3. apel
-4. azhari
+4. pisang
